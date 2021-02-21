@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="louis_Punie_clientserver:war2">
+    <output-path>$PROJECT_DIR$/out/artifacts/louis_Punie_clientserver_war2</output-path>
+    <root id="archive" name="louis_Punie_clientserver_war.war">
+      <element id="artifact" artifact-name="louis_Punie_clientserver:war exploded" />
+    </root>
+  </artifact>
+</component>
